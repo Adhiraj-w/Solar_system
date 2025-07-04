@@ -18,6 +18,3 @@ This is an interactive 3D version of our solar system built in HTML, CSS, and Th
 - `app.js` — Contains all JavaScript logic.
 - `styles.css` — Styles the UI and canvas.
 
-## Demo Video
-
-A separate `.mp4` or `.mov` file is attached.
